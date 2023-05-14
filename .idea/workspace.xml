@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c47601-584a-423d-94b0-8d17cf91b929" name="Changes" comment="Home task 1">
-      <change beforePath="$PROJECT_DIR$/test_for_commit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test_for_commit.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="04c47601-584a-423d-94b0-8d17cf91b929" name="Changes" comment="Home task 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
