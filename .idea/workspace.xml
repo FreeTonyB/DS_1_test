@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04c47601-584a-423d-94b0-8d17cf91b929" name="Changes" comment="Home task 1">
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_tasks/test_for_commit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/data/database_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/data/request_downloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/feature_engineering/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/feature_engineering/rename_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/feature_engineering/user_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_task_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/home_tasks/home_task_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_task_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/home_tasks/home_task_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_for_commit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/structure_test.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d2f73ba-4cbd-40b0-8878-2e4af31310c8" />
+        <option name="url" value="https://github.com/FreeTonyB/TonyB-DS-1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/modules/data/database_download.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PmVwA77CyYNSVdntWPJz3ehhKx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/macbook/Documents/DataScience/TonyB-DS-1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/home_tasks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Home task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home task 1" />
+  </component>
+</project>
